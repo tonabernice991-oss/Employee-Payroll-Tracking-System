@@ -217,6 +217,8 @@ This structure ensures:
 
 👉 **Click here to view the queries for better understanding:https://1drv.ms/w/c/c6767e1f5b535938/IQAuPLMeLNRmR46HtlIrdV8EAaUgKyUJE6wq_rNIxMe9l68?e=sNAsI2**
 
+**⚠️You should write these queries after downloading MySQL and write then in cmd.**
+
 🧕**Author:**
 **TONA**
 ## THANK YOU
