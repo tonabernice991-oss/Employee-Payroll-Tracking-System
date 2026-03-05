@@ -26,6 +26,7 @@ This project focuses on designing and implementing a **relational database using
 - Error reduction through relational database design
 - Easy retrieval of payroll history
 
+## 👾 Problem statement
 
-## 🚀 Getting Started
+
 
