@@ -26,7 +26,17 @@ This project focuses on designing and implementing a **relational database using
 - Error reduction through relational database design
 - Easy retrieval of payroll history
 
-## 👾 Problem statement
+## ❗ Problem Statement
+Organizations must ensure that employees are paid accurately and on time.  
+Without a structured payroll database, companies face:
+- Salary miscalculations  
+- Inconsistent payroll records  
+- Difficulty tracking deductions and allowances  
+- Limited payroll reporting  
+
+This project aims to create a **reliable payroll tracking system** that eliminates these challenges.
+
+
 
 
 
