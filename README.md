@@ -221,7 +221,7 @@ This structure ensures:
 
 🧕**Author:**
 **TONA**
-## THANK YOU
+## THANK YOU.
 
 
 
